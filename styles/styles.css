@@ -35,6 +35,17 @@
     cursor: pointer;
 }
 
+.off_field {
+    font-size: 12pt; width: 80%;
+    background-color: #121212;
+    height: 42px; padding: 0px 16px 0px 16px;
+    outline: 2px solid #262423;
+    transition: 0.2s;
+}.off_field:hover {
+    outline: 2px solid #ffffff;
+    cursor: pointer;
+}
+
 .empty_button {
     font-size: 12pt;
     background-color: transparent;
@@ -73,6 +84,7 @@
     margin-top: 12px; color: rgba(255, 255, 255, 0.7);
     font-size: 12pt;
 }
+.try_field { margin-top: 12px; }
 
 .container_description {
     font-size: 14pt;
