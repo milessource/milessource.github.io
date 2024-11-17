@@ -111,3 +111,12 @@
     .container_copyright { font-size: 6pt; }
     .footer_container { padding: 2px; }
 }
+
+.try_list {
+    background-color: #121212;
+    padding: 0px 16px 0px 16px;
+    margin-bottom: 24px;
+    outline: 2px solid #262423;
+}.list_subelement {
+    left: 24px; position: relative;
+}
