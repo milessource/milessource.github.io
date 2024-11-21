@@ -18,11 +18,8 @@
 2.2. **Defense**  
    - Any planned attack must be announced on the server (via in-game chat or Discord) **at least 40 minutes** before it starts.  
 
-2.3. **Use of Mechanisms**  
-   - Mechanisms designed for endless player bombardment are forbidden.  
-
 ---
 
-### 3. Additional Rules  
-- The simultaneous use of **elytras** and **end crystals (with obsidian)** is prohibited.  
-- Explosions caused by TNT are not allowed.  
+### 3. Additional Rules
+- The simultaneous use of **elytras** and **end crystals (with obsidian)** is prohibited during wars or special operations.
+- Explosions caused by TNT are not allowed if they involve more than 8 blocks of TNT per 2 square chunks.
