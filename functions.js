@@ -1,6 +1,4 @@
-// id's -> download_modpack | copy_ip | join_discord | ip_field
-
-const IP_TO_COPY = "x.y.z.w:xxxx";
+const IP_TO_COPY = "51.83.184.222:25636";
 
 document.getElementById('ip_field').value = IP_TO_COPY;
 
